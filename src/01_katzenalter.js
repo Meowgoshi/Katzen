@@ -13,3 +13,10 @@ ageRipley = year - birthRipley;
 console.log("Yuffie ist " + ageYuffie + ".");
 console.log("Legoshi ist " + ageLegoshi + ".");
 console.log("Ripley ist " + ageRipley + ".");
+
+
+
+
+
+// let date = new Date;
+// console.log(date)
