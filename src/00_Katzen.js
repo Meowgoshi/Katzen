@@ -1,0 +1,1 @@
+console.log("Die Fellnasen heißen Yuffie, Legoshi und Ripley.");

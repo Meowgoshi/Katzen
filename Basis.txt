@@ -1,0 +1,3 @@
+node -v                         // Node Version kontrollieren
+npm init -y                     // initialisiert bzw installiert Node Package Manager
+npm install prompt-sync         // installiert Prompt-Funktion
