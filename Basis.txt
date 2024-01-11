@@ -1,3 +1,10 @@
 node -v                         // Node Version kontrollieren
 npm init -y                     // initialisiert bzw installiert Node Package Manager
 npm install prompt-sync         // installiert Prompt-Funktion
+// Zeilenkommentar
+/* */ Blockkommentar
+
+
+Yuffie      Geboren 1.10.2019      Einzug 26.06.2020
+Legoshi     Geboren 12.07.2021     Einzug 08.10.2021
+Ripley      Geboren 01.05.2022     Einzug 06.07.2022
