@@ -8,6 +8,8 @@ let catName = prompt("Name: ");
 let catBirth = prompt("Geboren: ");
 let catJoin = prompt("Eingezogen: ");
 
+
 console.log(catName + " ist am " + catBirth + " geboren worden und am " + catJoin + " eingezogen.");
+console.log("Katzen sind toll!")
 
 
